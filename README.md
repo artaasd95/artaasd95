@@ -20,10 +20,10 @@ This repository showcases my projects, experiments, and contributions to the wor
 Here’s a glimpse of the technologies and frameworks I use to bring my ideas to life:  
 
 ### **Programming Languages**  
-- [![Python](https://img.shields.io/badge/-Python-3776AB?style=social&logo=Python&logoColor=white)](https://www.python.org/)
+- [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535)](https://www.python.org/)
 
 ### **AI & Machine Learning**  
-- [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=social&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+- [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535)](https://www.python.org/)
 - 🧠 [Machine Learning](https://scikit-learn.org/)  
 - 🔄 [Reinforcement Learning](https://www.gymlibrary.dev/)  
 - 🧩 [Transformers](https://huggingface.co/transformers/)  
@@ -39,9 +39,9 @@ Here’s a glimpse of the technologies and frameworks I use to bring my ideas to
 - 
 
 ### **Data Science & Analytics**  
-- [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=social&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
-- [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=social&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
-- [![Qdrant](https://img.shields.io/badge/-Qdrant-000000?style=social&logo=Qdrant&logoColor=white)](https://qdrant.tech/)
+- [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 
 ### **Time Series & Anomaly Detection**  
 - ⏳ [SKtime](https://www.sktime.org/)  
