@@ -7,7 +7,6 @@ Hi there! 👋 I’m a **Machine Learning Engineer** with a passion for building
 This repository showcases my projects, experiments, and contributions to the world of AI and Machine Learning. Whether you're here to explore my work, collaborate, or just geek out over AI, you're in the right place! 🌟  
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fartaasd95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://ir.linkedin.com/in/arta-asadi-6677a4a6)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:artaasd95@gmail.com)
 [![Github](https://img.shields.io/github/followers/artaasd95?label=Follow&style=social)](https://github.com/artaasd95)
