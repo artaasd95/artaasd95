@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub Repository! 🚀  
 
-Hi there! 👋 I'm a **Machine Learning Engineer** specializing in **AI-driven solutions for finance, time series analysis, and conversational AI systems**. With expertise in **Large Language Models (LLMs)**, **Reinforcement Learning (RL)**, and **Deep Learning**, I build cutting-edge applications like **Agentic RAG systems**, **financial trading systems**, and **autonomous agents** that solve real-world problems.
+Hi there! 👋 I'm a **Machine Learning Engineer** specializing in **AI-driven solutions for finance, time series analysis, and conversational AI systems**. With expertise in **Large Language Models (LLMs)**, **Reinforcement Learning (RL)**, and **Deep Learning**, I build cutting-edge applications like **Agentic RAG systems**, **financial forecasting models**, and **autonomous agents** that solve real-world problems.
 
 My work bridges the gap between theoretical AI research and practical implementation, with a particular focus on financial markets, predictive analytics, and intelligent systems that can understand, reason, and act on complex data.
 
@@ -61,6 +61,9 @@ Here's a glimpse of the technologies and frameworks I use to bring my ideas to l
 - [![LLMOps](https://img.shields.io/badge/-LLMOps-BA55D3?style=flat&logo=OpenAI&logoColor=white)](https://en.wikipedia.org/wiki/MLOps)
 
 ### **Financial Expertise**  
+- [![Algorithmic Trading](https://img.shields.io/badge/-Algorithmic%20Trading-DAA520?style=flat&logo=Bitcoin&logoColor=white)](https://www.investopedia.com/terms/a/algorithmictrading.asp)
+- [![Trading Algorithm Development](https://img.shields.io/badge/-Trading%20Algorithm%20Development-483D8B?style=flat&logo=Python&logoColor=white)](https://www.investopedia.com/terms/t/trading-strategy.asp)
+
 - [![Forex Trading](https://img.shields.io/badge/-Forex%20Trading-6B8E23?style=flat&logo=Bitcoin&logoColor=white)](https://www.investopedia.com/terms/f/forex.asp)
 - [![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-4169E1?style=flat&logo=Stripe&logoColor=white)](https://www.investopedia.com/terms/p/portfolio-optimization.asp)
 - [![Risk Management](https://img.shields.io/badge/-Risk%20Management-B22222?style=flat&logo=Shield&logoColor=white)](https://www.investopedia.com/terms/r/riskmanagement.asp)
