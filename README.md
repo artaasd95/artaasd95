@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub Repository! 🚀  
 
-Hi there! 👋 I'm a **Machine Learning Engineer** specializing in **AI-driven solutions for finance, time series analysis, and conversational AI systems**. With expertise in **Large Language Models (LLMs)**, **Reinforcement Learning (RL)**, and **Deep Learning**, I build cutting-edge applications like **Agentic RAG systems**, **financial forecasting models**, and **autonomous agents** that solve real-world problems.
+Hi there! 👋 I'm a **Machine Learning Engineer** specializing in **AI-driven solutions for finance, time series analysis, and conversational AI systems**. With expertise in **Large Language Models (LLMs)**, **Reinforcement Learning (RL)**, and **Deep Learning**, I build cutting-edge applications like **Agentic RAG systems**, **financial trading systems**, and **autonomous agents** that solve real-world problems.
 
 My work bridges the gap between theoretical AI research and practical implementation, with a particular focus on financial markets, predictive analytics, and intelligent systems that can understand, reason, and act on complex data.
 
