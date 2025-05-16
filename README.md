@@ -91,6 +91,10 @@ A collection of techniques and examples for effective prompt engineering with LL
 A sophisticated financial analysis system built with **Agno**, **MongoDB**, and **FastAPI** that leverages Graph RAG to analyze stocks using multiple metrics and provide intelligent investment recommendations.  
 🔗 [See more!](https://github.com/artaasd95/agentic-asset-recommender)  
 
+### 5. **Research Sphere MCP** 🔬  
+An advanced academic research assistant platform that combines RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) to revolutionize research and knowledge management. Built with **FastAPI**, **React**, and **Neo4j**, it provides intelligent document processing, semantic search, and context-aware research question answering.  
+🔗 [See more!](https://github.com/artaasd95/research-sphere-mcp) 
+
 ---
 
 ## 🎓 **Education**  
