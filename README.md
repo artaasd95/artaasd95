@@ -75,25 +75,29 @@ Here's a glimpse of the technologies and frameworks I use to bring my ideas to l
 
 Here are some of the exciting projects I've worked on:  
 
-### 1. **Rap Music Generator** 🎤  
+### 1. <img src="https://github.com/artaasd95/chrematai/blob/main/logo.png" alt="Chrematai Logo" width="28"/> **Chrematai** 📊  
+A comprehensive Python library for financial risk and return analysis, featuring advanced AI-powered insights and calculations.  
+Chrematai empowers financial professionals, researchers, and developers with robust tools for quantitative finance and risk management.  
+
+🔗 [Visit the repo](https://github.com/artaasd95/chrematai)
+
+---
+
+### 2. **Research Sphere MCP** 🔬  
+An advanced academic research assistant platform that combines RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) to revolutionize research and knowledge management. Built with **FastAPI**, **React**, and **Neo4j**, it provides intelligent document processing, semantic search, and context-aware research question answering.  
+🔗 [See more!](https://github.com/artaasd95/research-sphere-mcp)
+
+### 3. **Rap Music Generator** 🎤  
 An innovative project using **PyTorch** and **Transformers** to generate rap lyrics, offering multiple fine-tuning approaches including supervised learning and direct preference optimization (DPO).  
 🔗 [Check it out!](https://github.com/artaasd95/rap-music-generator)  
 
-### 2. **GenAI Applications** 🤖  
+### 4. **GenAI Applications** 🤖  
 A comprehensive suite of generative AI projects showcasing best practices in prompt engineering, code repository interaction, legal document summarization, and financial statement analysis.  
 🔗 [Explore here!](https://github.com/artaasd95/GenAI-apps-practices)  
 
-### 3. **Prompt Engineering Practices** 🛠️  
-A collection of techniques and examples for effective prompt engineering with LLMs, featuring a pair coding assistant and systematic approaches to prompt design.  
-🔗 [See more!](https://github.com/artaasd95/Prompt-Engineering-practices)  
-
-### 4. **Agentic Asset Recommender** 📈  
+### 5. **Agentic Asset Recommender** 📈  
 A sophisticated financial analysis system built with **Agno**, **MongoDB**, and **FastAPI** that leverages Graph RAG to analyze stocks using multiple metrics and provide intelligent investment recommendations.  
-🔗 [See more!](https://github.com/artaasd95/agentic-asset-recommender)  
-
-### 5. **Research Sphere MCP** 🔬  
-An advanced academic research assistant platform that combines RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) to revolutionize research and knowledge management. Built with **FastAPI**, **React**, and **Neo4j**, it provides intelligent document processing, semantic search, and context-aware research question answering.  
-🔗 [See more!](https://github.com/artaasd95/research-sphere-mcp) 
+🔗 [See more!](https://github.com/artaasd95/agentic-asset-recommender)
 
 ---
 
