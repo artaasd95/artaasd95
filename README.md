@@ -2,11 +2,11 @@
 
 # 🚀 Welcome to My GitHub Repository! 🚀  
 
-Hi there! 👋 I'm a **Machine Learning Engineer** specializing in **AI-driven solutions for finance, time series analysis, and conversational AI systems**. With expertise in **Large Language Models (LLMs)**, **Reinforcement Learning (RL)**, and **Deep Learning**, I build cutting-edge applications like **Agentic RAG systems**, **financial trading models**, and **autonomous agents** that solve real-world problems.
+Hi!👋 I'm a Machine Learning Engineer with specialization in AI solution development for finance, time series, and conversational AI platforms. With experience in Large Language Models (LLMs), Reinforcement Learning (RL), and Deep Learning, I develop cutting-edge applications like Agentic RAG systems, trading financial models, and autonomous agents which solve real-world problems.
 
-My work bridges the gap between theoretical AI research and practical implementation, with a particular focus on financial markets, predictive analytics, and intelligent systems that can understand, reason, and act on complex data.
+My contributions bridge the gap between theoretical AI research and actual applications, that is, on financial markets, predictive analytics, and intelligent systems that can understand, reason, and act on sophisticated information.
 
-This repository showcases my projects and contributions to the world of AI and Machine Learning. Whether you're here to explore my work, collaborate, or just geek out over AI, you're in the right place! 🌟  
+This repository showcases my work and contributions to the field of AI and Machine Learning. If you're here to look at my work, collaborate with me, or just geek about AI, welcome! 🌟  
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://ir.linkedin.com/in/arta-asadi-6677a4a6)
