@@ -22,7 +22,7 @@ Here's a glimpse of the technologies and frameworks I use to bring my ideas to l
 
 ### **Programming Languages**  
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
-- [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
+- [![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)]
 
 ### **AI & Machine Learning**  
 - [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
