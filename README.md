@@ -8,8 +8,6 @@ My contributions bridge the gap between theoretical AI research and actual appli
 
 This repository showcases my work and contributions to the field of AI and Machine Learning. If you're here to look at my work, collaborate with me, or just geek about AI, welcome! 🌟  
 
-## AFTER 15 DAYS OF INTERNET BLOCKOUT IN IRAN: I AM ALIVE, YES!
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://ir.linkedin.com/in/arta-asadi-6677a4a6)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:artaasd95@gmail.com)
