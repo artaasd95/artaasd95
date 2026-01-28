@@ -26,6 +26,7 @@ Here's a glimpse of the technologies and frameworks I use to bring my ideas to l
 
 ### **AI & Machine Learning**  
 - [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+- [![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=black)](https://developer.nvidia.com/cuda-toolkit)
 - [![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-808080?style=flat&logo=OpenAI&logoColor=white)](https://en.wikipedia.org/wiki/Reinforcement_learning)
 - [![Transformers](https://img.shields.io/badge/-Transformers-FFD700?style=flat&logo=Hugging%20Face&logoColor=black)](https://huggingface.co/transformers/)  
 
