@@ -8,7 +8,7 @@ I don't just train models; I bridge the gap between theoretical mathematics and 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://ir.linkedin.com/in/arta-asadi-6677a4a6)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:artaasd95@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/artaasd95?label=Follow&style=social)](https://github.com/artaasd95)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/artaasd95)
 
 ---
 
