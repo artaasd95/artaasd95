@@ -1,10 +1,27 @@
-## **Arta Asadi** | Senior AI Engineer
+# Arta Asadi | Senior AI Systems Engineer & AI Architect
 
-## 💡 I architect AI solutions that solve the hardest problems—turning deep mathematical and philosophical concepts into GenAI and financial systems that reason, decide, and act.
+## 💡 I build AI systems for high-stakes environments—engineering reasoning, risk-aware, and autonomous architectures for finance, decision intelligence, and large-scale institutional systems.
 
-As a Senior AI Engineer, I build intelligent systems for high-stakes domains. My core focus is **problem-solving through AI**—specifically leveraging **Generative AI** and advanced machine learning to engineer breakthroughs in finance, conversational AI, and autonomous reasoning. 
+I specialize in transforming advanced mathematical, probabilistic, and philosophical concepts into production-grade AI infrastructure that can reason under uncertainty, manage risk, and operate reliably at scale.
 
-I don't just train models; I bridge the gap between theoretical mathematics and production-grade applications that navigate uncertainty, quantify risk, and deliver real-world impact.
+As a Senior AI Systems Engineer, I design and deploy intelligent architectures for domains where reasoning quality, uncertainty management, and reliability are critical.
+
+My work focuses on:
+
+- Generative AI and LLM reasoning systems
+- Retrieval-augmented and agentic architectures
+- Financial intelligence and tail-risk modeling
+- Autonomous decision systems
+- AI infrastructure and scalable inference pipelines
+
+I work at the intersection of:
+- AI engineering
+- probabilistic reasoning
+- systems architecture
+- quantitative finance
+- institutional-scale intelligence systems
+
+I do not build AI demos. I build systems designed to operate under real-world ambiguity, adversarial conditions, and complex decision environments.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://ir.linkedin.com/in/arta-asadi-6677a4a6)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:artaasd95@gmail.com)
@@ -21,13 +38,17 @@ I don't just train models; I bridge the gap between theoretical mathematics and 
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)](https://www.docker.com/)
 
-**Generative AI & LLMs** — RAG Systems · Agentic Architectures · LangChain · LangGraph · LLM Performance Engineering · RLHF · Prompt Engineering
+## 🛠️ Core Expertise
 
-**AI & Machine Learning** — Reinforcement Learning · Deep Learning · Optimizers · Anomaly Detection
+**Generative AI & Reasoning Systems** — RAG Architectures · Structured Reasoning · Multi-Agent Systems · LangGraph · RLHF · Context Engineering · LLM Evaluation
 
-**Finance & Algorithms** — Quantitative Methods · Algorithmic Trading · Portfolio Optimization · Risk Management · Forex
+**AI & Machine Learning** — Deep Learning · Reinforcement Learning · Anomaly Detection · Optimization Algorithms · Probabilistic Modeling
 
-**Data & Infrastructure** — Pandas · MongoDB · Qdrant · MLOps · LLMOps
+**Financial Intelligence & Quantitative Systems** — Tail-Risk Analysis · Portfolio Optimization · Algorithmic Trading · Risk Modeling · Market Simulation
+
+**Infrastructure & Scalable AI Systems** — Distributed Systems · Scalable Inference · Vector Databases · Qdrant · GPU Workloads · Observability · MLOps · LLMOps
+
+**Data & Backend Engineering** — Python · FastAPI · Pandas · MongoDB · Docker · CUDA · PyTorch · Transformers
 
 ---
 
@@ -39,7 +60,7 @@ I don't just train models; I bridge the gap between theoretical mathematics and 
 
 **Systematic Thinking** — I approach problems with structured, methodical frameworks—mapping cause and effect, identifying dependencies, and building reproducible pipelines from chaos.
 
-**Nonlinear Thinking** — I look for the paths others miss. When linear approaches plateau, I reach for unconventional connections across philosophy, mathematics, and engineering to find solutions that actually work.
+**Nonlinear Thinking** — I identify hidden dependencies, second-order effects, and unconventional solution paths across AI, finance, infrastructure, and institutional systems. I focus on architectures that remain robust under uncertainty, scale, and adversarial conditions.
 
 ---
 
@@ -71,6 +92,52 @@ High-performance tools for extreme event analysis in financial and statistical d
 - **Ph.D.** — Artificial Intelligence
 - **M.Sc.** — Computer Engineering (AI)
 - **B.Sc.** — Software Engineering
+
+---
+
+# 🧭 Current Research & System Design Directions
+
+## AI-Native Financial Infrastructure
+Exploring autonomous financial intelligence systems that combine:
+- explainable AI
+- probabilistic reasoning
+- agentic workflows
+- risk-aware architectures
+- institutional-scale decision systems
+
+## Institutional & Civic Intelligence Systems
+Researching AI-mediated governance and large-scale coordination systems inspired by:
+- Karl Popper’s Open Society
+- computational governance
+- adaptive institutional design
+- algorithmic social contracts
+- decentralized intelligence systems
+
+Relevant concepts and adjacent research:
+- Society-in-the-Loop (SITL)
+- Constitutional AI
+- AI governance frameworks
+- Open institutional architectures
+
+---
+
+# ⚙️ Engineering Philosophy
+
+I believe the next generation of AI systems will not simply generate content—they will coordinate institutions, manage uncertainty, reason under incomplete information, and augment large-scale decision systems.
+
+My focus is building AI architectures that are:
+- reliable under uncertainty
+- explainable in high-stakes environments
+- robust against adversarial conditions
+- scalable across institutional contexts
+- grounded in systems thinking rather than hype
+
+I am particularly interested in the intersection of:
+- AI reasoning
+- governance systems
+- financial intelligence
+- institutional architecture
+- computational social systems
 
 ---
 
