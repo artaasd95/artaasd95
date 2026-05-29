@@ -141,11 +141,4 @@ I am particularly interested in the intersection of:
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://raw.githubusercontent.com/artaasd95/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/artaasd95/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
----
-
 *Thanks for stopping by. Let's build the future of AI together.* 🚀
