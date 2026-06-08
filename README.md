@@ -87,6 +87,13 @@ High-performance tools for extreme event analysis in financial and statistical d
 
 ---
 
+### 4. **RADA** :robot:
+An adaptive data augmentation framework designed to dynamically select and apply augmentation strategies based on dataset characteristics and model feedback. RADA moves beyond static, one-size-fits-all augmentations, using a contextual approach to optimize the training pipeline, improve model generalization, and enhance robustness across diverse domains.
+
+🔗 [View Project](https://github.com/artaasd95/RADA)
+
+---
+
 ## 🎓 Education
 
 - **Ph.D.** — Artificial Intelligence
