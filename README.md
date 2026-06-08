@@ -16,7 +16,7 @@ My work focuses on:
 
 I work at the intersection of:
 - AI engineering
-- probabilistic reasoning
+- probabilistic and quantitative reasoning
 - systems architecture
 - quantitative finance
 - institutional-scale intelligence systems
